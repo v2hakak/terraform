@@ -1,5 +1,5 @@
 resource "aws_iam_policy" "s3_policy" {
-  name        = "s3_policy"
+  name        = "s3_policy1"
   path        = "/"
   description = "s3 policy for Instance "
 
